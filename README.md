@@ -10,8 +10,19 @@ A link storing extension where you have 3 buttons; "Save Input" to input the val
 ![Screenshot 2024-05-03 141619](https://github.com/Ashwin-S-Nambiar/link-storer-chrome-extension/assets/76719333/c3d1e849-d14e-4f50-82c2-e41bdcc7dd2e)
 ![Screenshot 2024-05-03 141654](https://github.com/Ashwin-S-Nambiar/link-storer-chrome-extension/assets/76719333/e074dd4a-8fe9-4a59-b25e-900bf91c4da1)
 
+
+
+
 To try it download the code from the repository
+
+
 -> Open Chrome
+
+
 -> Go to Extensions -> Manage Extensions
+
+
 -> Click on Load Unpacked -> Select the Code folder after unzipping it
+
+
 -> Done, Enjoy it !
